@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 En ce moment je travaille sur une application crypto en React.js<br>👯 J'aimerais collaborer avec une équipe en React.js <br>🌱 Je suis en train d'apprendre EtherJS pour intéragir avec la blockchaine Ethereum<br>💬 Hésitez pas à me demander plus d'informations à propos de mes projets<br>⚡ “N'importe quel idiot peut écrire du code qu'un ordinateur peut comprendre. Les bons programmeurs écrivent du code que les humains peuvent comprendre.” - Martin Fowler.
+🔭 En ce moment je travaille sur une plateforme de formation en NextJS<br>👯 J'aimerais collaborer avec une équipe en React.js<br>💬 Hésitez pas à me demander plus d'informations à propos de mes projets<br>⚡ “N'importe quel idiot peut écrire du code qu'un ordinateur peut comprendre. Les bons programmeurs écrivent du code que les humains peuvent comprendre.” - Martin Fowler.
 
 
 ## 🌐 Socials:
