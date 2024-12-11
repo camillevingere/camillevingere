@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working on a training platform using NextJS<br>👯 I would love to collaborate with a team in React.js<br>💬 Feel free to ask me for more information about my projects<br>⚡ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.
+🔭 I'm working on an estimate SaaS using NextJS<br>👯 I would love to collaborate with a startup team<br>💬 Feel free to ask me for more information about my projects<br>⚡ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.
 
 
 ## 🌐 Socials:
